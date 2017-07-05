@@ -1,0 +1,22 @@
+{
+  "name": "fichier-projet",
+  "version": "1.0.0",
+  "description": "test creation ouverture fichier projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyri11e/premier-git.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "cl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyri11e/premier-git/issues"
+  },
+  "homepage": "https://github.com/cyri11e/premier-git#readme"
+}
